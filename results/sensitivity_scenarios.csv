@@ -1,0 +1,5 @@
+Scenario,BSM_Mean,ML_Adjusted_Mean,Mean_ML_Correction,BSM_Change_vs_Base,ML_Change_vs_Base
+Base,56.643,56.4055,-0.2375,0.0,0.0
+Volatility +50%,58.5645,58.2917,-0.2727,1.9215,1.8862
+Rate +2pp,59.3733,59.1292,-0.244,2.7303,2.7237
+Vol +50% & Rate +2pp,60.9775,60.7011,-0.2765,4.3345,4.2955
